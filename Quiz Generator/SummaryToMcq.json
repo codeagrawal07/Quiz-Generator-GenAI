@@ -1,0 +1,45 @@
+{
+  "title": "Haridwar Travel Quiz",
+  "quiz": [
+    {
+      "question": "Which of these is NOT explicitly mentioned as a place to visit in the Haridwar travel guide?",
+      "options": [
+        "Har Ki Pauri",
+        "Mansa Devi Temple",
+        "Chandi Devi Temple",
+        "Taj Mahal"
+      ],
+      "answer": "Taj Mahal"
+    },
+    {
+      "question": "According to the video, what is a key activity to experience at Har Ki Pauri?",
+      "options": [
+        "River rafting",
+        "Trekking",
+        "Ganga Aarti",
+        "Yoga classes"
+      ],
+      "answer": "Ganga Aarti"
+    },
+    {
+      "question": "Besides Haridwar itself, which nearby location is highlighted in the travel guide?",
+      "options": [
+        "Agra",
+        "Delhi",
+        "Rishikesh",
+        "Jaipur"
+      ],
+      "answer": "Rishikesh"
+    },
+    {
+      "question": "What type of information is covered in the video, in addition to sightseeing locations?",
+      "options": [
+        "Only historical facts",
+        "Cuisine only",
+        "Transportation, safety, and budget options",
+        "Weather forecast only"
+      ],
+      "answer": "Transportation, safety, and budget options"
+    }
+  ]
+}
